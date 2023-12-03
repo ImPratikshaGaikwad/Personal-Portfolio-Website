@@ -1,0 +1,20 @@
+body{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    align-items: center;
+    /* margin: 300px; */
+    background: linear-gradient(to left,#f177f5,#76cbf3);
+}
+
+#calculatorImg{
+    width: 102vh;
+}
+
+#amazonImg{
+    width: 102vh;
+}
+
+#portfolioImg{
+    width: 102vh;
+}

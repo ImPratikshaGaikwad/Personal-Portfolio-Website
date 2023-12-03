@@ -1,0 +1,14 @@
+#heading{
+    padding-left: 20px;
+    font-size: 40px;
+    font-family: 'cursive', Courier, monospace;
+}
+
+    body{
+        background: linear-gradient(to left,#f177f5,#76cbf3);
+    }
+
+
+table{
+    border-style: ridge;
+}
